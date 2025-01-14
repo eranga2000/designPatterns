@@ -20,4 +20,4 @@ The Strategy pattern allows selecting an algorithm at runtime. It enables a clas
 
 - **Example**: Sorting algorithms (QuickSort, MergeSort, etc.) or different payment strategies (Credit Card, PayPal, etc.) in an e-commerce platform.
 
-## Directory Structure
+
